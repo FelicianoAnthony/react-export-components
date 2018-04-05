@@ -1,0 +1,1 @@
+testComp.js component is exported into App.js as a component for that path
